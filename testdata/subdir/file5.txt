@@ -1,0 +1,1 @@
+Another text file in a subdirectory. Should be ignored by the scanner.

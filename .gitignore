@@ -1,0 +1,19 @@
+# Rust/Cargo build files
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# VSCode settings
+.vscode/
+
+# IDE and OS files
+*.swp
+*.swo
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Test and output files
+/output.json
+/testdata/*.txt
